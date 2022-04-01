@@ -1,0 +1,20 @@
+{
+  "name": "@wentian/git_version",
+  "version": "1.0.0",
+  "description": "获取文件信息",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justsuccess/git_version.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justsuccess/git_version/issues"
+  },
+  "homepage": "https://github.com/justsuccess/git_version#readme"
+}
