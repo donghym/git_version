@@ -1,1 +1,2 @@
-# git_version
+# 
+这是一个获取 git信息的脚本
