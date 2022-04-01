@@ -1,7 +1,7 @@
 {
   "name": "@wentian/git_version",
   "version": "1.0.1",
-  "description": "获取文件信息",
+  "description": "获取git信息",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
