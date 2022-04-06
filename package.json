@@ -1,6 +1,6 @@
 {
   "name": "@wentian/git_version",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "获取git信息",
   "main": "src/main.js",
   "scripts": {

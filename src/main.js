@@ -1,13 +1,4 @@
-/*
- * @Author: donghym
- * @Date: 2022-04-01 12:44:25
- * @LastEditors: donghym
- * @Description: 
- * @LastEditTime: 2022-04-01 12:44:25
- * @FilePath: /git_version/main.js
- */
 const child_process = require('child_process');
-
 // git 最后一次提交的 Head
 const commit = child_process
   .execSync('git show -s --format=%H')
